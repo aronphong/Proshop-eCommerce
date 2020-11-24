@@ -46,7 +46,7 @@ const getUserProfile = asyncHandler(async (req, res) => {
 // @ desc   Regiser a new user
 // @ route  POST /api/users/
 // @ access Public
-const regiserUser = asyncHandler(async (req, res) => {
+const registerUser = asyncHandler(async (req, res) => {
   const { name, email, password } = req.body;
 
   const userExists = await User.findOne({ email });
@@ -76,4 +76,4 @@ const regiserUser = asyncHandler(async (req, res) => {
   }
 });
 
-export { authUser, getUserProfile, regiserUser };
+export { authUser, getUserProfile, registerUser };
