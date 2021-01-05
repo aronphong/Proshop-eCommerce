@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-[Live App] (https://proshopapp-aron.herokuapp.com/)
+[Live App](https://proshopapp-aron.herokuapp.com/)
 
 ## Features
 
