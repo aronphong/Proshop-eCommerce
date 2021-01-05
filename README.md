@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+[Live App] (https://proshopapp-aron.herokuapp.com/)
+
 ## Features
 
 - Full featured shopping cart
@@ -21,3 +23,4 @@
 ## Things I'm Working On
  - Removing items from cart after order is placed
  - Heroku live deployment
+ - Add Image Carousel for individual product pages
