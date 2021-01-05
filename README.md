@@ -24,3 +24,18 @@
  - Removing items from cart after order is placed
  - Heroku live deployment
  - Add Image Carousel for individual product pages
+ - Add Security measures (cleaning + validation)
+ 
+ ## Main Technologies
+ 
+ ### Client Side
+
+- [x] **[React](https://github.com/facebook/react)**
+- [x] **[Redux](https://github.com/reactjs/redux)**
+- [x] **[React-Router-DOM](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+
+### Server Side
+
+- [x] **[Node.js / Express](https://github.com/expressjs/express)**
+- [x] **[MongoDB](https://github.com/mongodb/mongo)**
+- [x] **[JWT](https://github.com/auth0/node-jsonwebtoken)**
