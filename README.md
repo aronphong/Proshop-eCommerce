@@ -21,14 +21,13 @@
 - Database seeder (products & users)
 
 ## Things I'm Working On
- - Removing items from cart after order is placed
- - Heroku live deployment
- - Add Image Carousel for individual product pages
- - Add Security measures (cleaning + validation)
- 
- ## Main Technologies
- 
- ### Client Side
+
+- Add Image Carousel for individual product pages
+- Add Security measures (cleaning + validation)
+
+## Main Technologies
+
+### Client Side
 
 - [x] **[React](https://github.com/facebook/react)**
 - [x] **[Redux](https://github.com/reactjs/redux)**
